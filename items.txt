@@ -1,0 +1,1 @@
+{"id": 1, "type": "Book", "title": "Harry Potter", "checkedIn": true, "author": "Tom Kielski"}
